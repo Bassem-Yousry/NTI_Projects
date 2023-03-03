@@ -1,0 +1,67 @@
+<circuit noLinAcc="5" animate="0" reactStep="50" Speed_sps="1000000" Speed_per="100" Simu_Step_nS="1000" type="simulide_0.4">
+
+Unique  Id: Ground-270: 
+Circuit Id: Ground-270
+<item circPos="0,0" objectName="Ground-270" y="72" valLabelx="0" labely="8" valLabRot="0" circRot="-5.486129280331905e+303" boardRot="-1e+06" id="Ground-270" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Ground" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" Show_id="false" x="-600" labelx="-16"/>
+
+Unique  Id: DcMotor-268: 
+Circuit Id: DcMotor-268
+<item circPos="0,0" Volt_Nominal="5" RPM_Nominal="60" objectName="DcMotor-268" y="52" Unit=" Ω" valLabelx="0" labely="-48" Resistance="100" valLabRot="0" circRot="-5.486129280331905e+303" boardRot="-1e+06" id="DcMotor-268" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="DcMotor" mainComp="false" boardPos="-1e+06,-1e+06" hflip="-1" Show_id="true" x="-540" labelx="-22"/>
+
+Unique  Id: Ground-3: 
+Circuit Id: Ground-3
+<item circPos="0,0" objectName="Ground-3" y="-144" valLabelx="0" labely="8" valLabRot="0" circRot="-5.486129280331905e+303" boardRot="-1e+06" id="Ground-3" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Ground" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" Show_id="false" x="-536" labelx="-16"/>
+
+Unique  Id: atmega32-2: 
+Circuit Id: atmega32-2
+<item circPos="0,0" objectName="atmega32-2" y="-40" valLabelx="0" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" labely="-20" varList=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," valLabRot="0" circRot="0" boardRot="-1e+06" id="atmega32-2" Auto_Load="false" valLabely="0" vflip="1" Logic_Symbol="false" rotation="0" labelrot="0" itemtype="AVR" mainComp="false" Name="" boardPos="-1e+06,-1e+06" hflip="1" Show_id="true" Program="../Documents/Atmel Studio/7.0/NTI/NTI/Release/NTI.hex" x="-444" labelx="0" Mhz="16"/>
+
+Unique  Id: Hd44780-1: 
+Circuit Id: Hd44780-1
+<item circPos="0,0" Rows="2" objectName="Hd44780-1" y="-180" valLabelx="0" labely="-82" valLabRot="0" circRot="2.37636445786895e-212" boardRot="-1e+06" id="Hd44780-1" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Hd44780" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" Show_id="true" x="-560" labelx="70" Cols="16"/>
+
+Unique  Id: Voltage Source-247: 
+Circuit Id: Voltage Source-247
+<item circPos="0,0" Voltage="5" objectName="Voltage Source-247" y="-96" Unit=" V" valLabelx="-26" labely="-80" valLabRot="0" circRot="0" boardRot="-1e+06" id="Voltage Source-247" valLabely="10" vflip="1" rotation="0" labelrot="0" itemtype="Voltage Source" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" Show_id="false" x="-412" labelx="-40" Show_Volt="true"/>
+
+Unique  Id: Connector-4: 
+Circuit Id: Connector-4
+<item startpinid="Ground-3-Gnd" circPos="0,0" enodeid="Circ_eNode-250" objectName="Connector-4" y="-160" valLabelx="0" labely="-24" valLabRot="0" circRot="0" boardRot="-1e+06" id="Connector-4" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-536,-160,-536,-172" Show_id="false" endpinid="Hd44780-1-PinRW" x="-536" labelx="-16"/>
+
+Unique  Id: Connector-5: 
+Circuit Id: Connector-5
+<item startpinid="Hd44780-1-PinRS" circPos="0,0" enodeid="Circ_eNode-251" objectName="Connector-5" y="-172" valLabelx="0" labely="-24" valLabRot="0" circRot="0" boardRot="-1e+06" id="Connector-5" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-544,-172,-544,4,-388,4,-388,-8" Show_id="false" endpinid="atmega32-2-PA3" x="-544" labelx="-16"/>
+
+Unique  Id: Connector-8: 
+Circuit Id: Connector-8
+<item startpinid="Hd44780-1-dataPin5" circPos="0,0" enodeid="Circ_eNode-252" objectName="Connector-8" y="-172" valLabelx="0" labely="-24" valLabRot="0" circRot="1.2461146980886893e-306" boardRot="-1e+06" id="Connector-8" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-480,-172,-480,-24,-452,-24" Show_id="false" endpinid="atmega32-2-PB1" x="-480" labelx="-16"/>
+
+Unique  Id: Connector-9: 
+Circuit Id: Connector-9
+<item startpinid="Hd44780-1-dataPin6" circPos="0,0" enodeid="Circ_eNode-253" objectName="Connector-9" y="-172" valLabelx="0" labely="-24" valLabRot="0" circRot="3.636490334654958e+228" boardRot="-1e+06" id="Connector-9" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-472,-172,-472,-16,-452,-16" Show_id="false" endpinid="atmega32-2-PB2" x="-472" labelx="-16"/>
+
+Unique  Id: Connector-10: 
+Circuit Id: Connector-10
+<item startpinid="Hd44780-1-dataPin7" circPos="0,0" enodeid="Circ_eNode-254" objectName="Connector-10" y="-172" valLabelx="0" labely="-24" valLabRot="0" circRot="1.7940482245386392e+106" boardRot="-1e+06" id="Connector-10" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-464,-172,-464,0,-452,0" Show_id="false" endpinid="atmega32-2-PB4" x="-464" labelx="-16"/>
+
+Unique  Id: Connector-6: 
+Circuit Id: Connector-6
+<item startpinid="Hd44780-1-PinEn" circPos="0,0" enodeid="Circ_eNode-255" objectName="Connector-6" y="-172" valLabelx="0" labely="-24" valLabRot="0" circRot="-9.245495944477599e+306" boardRot="-1e+06" id="Connector-6" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-528,-172,-524,-172,-524,-16,-388,-16" Show_id="false" endpinid="atmega32-2-PA2" x="-528" labelx="-16"/>
+
+Unique  Id: Connector-7: 
+Circuit Id: Connector-7
+<item startpinid="Hd44780-1-dataPin4" circPos="0,0" enodeid="Circ_eNode-265" objectName="Connector-7" y="-172" valLabelx="0" labely="-24" valLabRot="0" circRot="0" boardRot="-1e+06" id="Connector-7" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-488,-172,-488,-32,-452,-32" Show_id="false" endpinid="atmega32-2-PB0" x="-488" labelx="-16"/>
+
+Unique  Id: Connector-248: 
+Circuit Id: Connector-248
+<item startpinid="Voltage Source-247-outPin" circPos="0,0" enodeid="Circ_eNode-266" objectName="Connector-248" y="-96" valLabelx="0" labely="-24" valLabRot="0" circRot="0" boardRot="-1e+06" id="Connector-248" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-396,-96,-388,-96,-388,-32" Show_id="false" endpinid="atmega32-2-PA0" x="-396" labelx="-16"/>
+
+Unique  Id: Connector-271: 
+Circuit Id: Connector-271
+<item startpinid="Ground-270-Gnd" circPos="0,0" enodeid="enode-271" objectName="Connector-271" y="56" valLabelx="0" labely="-24" valLabRot="0" circRot="-5.850951302637259e+307" boardRot="-1e+06" id="Connector-271" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-600,56,-580,56,-580,52" Show_id="false" endpinid="DcMotor-268-rPin" x="-600" labelx="-16"/>
+
+Unique  Id: Connector-269: 
+Circuit Id: Connector-269
+<item startpinid="atmega32-2-PB3" circPos="0,0" enodeid="enode-269" objectName="Connector-269" y="-8" valLabelx="0" labely="-24" valLabRot="0" circRot="0" boardRot="-1e+06" id="Connector-269" valLabely="0" vflip="1" rotation="0" labelrot="0" itemtype="Connector" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" pointList="-452,-8,-460,-8,-460,52,-500,52" Show_id="false" endpinid="DcMotor-268-lPin" x="-452" labelx="-16"/>
+ 
+</circuit>
