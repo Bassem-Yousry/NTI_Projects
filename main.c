@@ -23,8 +23,10 @@
 
 int main(void)
 {
-DC_ADC_init();
-DC_ADC_start();
+Servo_ADC_init();	
+Servo_ADC_start();
+//DC_ADC_init();
+//DC_ADC_start();
 
 }
 
