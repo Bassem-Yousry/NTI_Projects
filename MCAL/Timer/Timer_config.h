@@ -10,7 +10,7 @@
 #define TIMER_CONFIG_H_
 
 #define NoCLK			0		 // No clock source (Timer/Counter stopped).
-#define CLK				1		// clkI/O/(No prescaling)
+#define CLK_NoPS		1		// clkI/O/(No prescaling)
 #define CLK_8			2		// clkI/O/8 (From prescaler)
 #define CLK_64			3		// clkI/O/64 (From prescaler)
 #define CLK_256			4		//clkI/O/256 (From prescaler)
@@ -32,8 +32,11 @@
 */
 
 #define	 CompareMatchOutput	2
-#define ClockSelect CLK
+#define ClockPrescalerSelect CLK_NoPS
 #define CLKFreq	16000000U
 
+/* 0 --> 15  */
+#define TIM1ModeNum	14
+#define TIM1CLK_PSSelect CLK_256
 
 #endif /* TIMER_CONFIG_H_ */

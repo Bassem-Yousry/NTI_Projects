@@ -11,7 +11,10 @@
 #include "../../STD_TYPES.h"
 
 typedef enum {Normal,PWM_PC,CTC,FastPWM}TimerMode;
-	
+void Timer1_Init();
+void Timer1_SetTop(u16 Top);
+void Timer1_SetFreq(u32 Freq);
+void Timer1_SetDutyCycle(f64 DutyCycle);
 void Timer0_Init(TimerMode);
 void Timer0_start();
 void Timer0_stop();
